@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+}
+
+.inside-box{
+    background-color: whitesmoke;
+    padding: 50px 20px;
+    margin:30px 5px;
+}
+.fa{
+    color: blue ;
+}
